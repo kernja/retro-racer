@@ -1,0 +1,11 @@
+id	name	filepath	imageid		difficulty
+9
+0,Highway 53 N,maps/53.rrc,240,0
+1,Windmill Isle,maps/wm.rrc,237,0
+2,Towards the City,maps/city1.rrc,243,0
+3,Winter Wonder,maps/winter.rrc,245,1
+4,Street Racer,maps/city2.rrc,244,1
+5,Goat's Overpass,maps/goat.rrc,246,1
+6,City Escape,maps/city3.rrc,249,2
+7,Emerald Coast,maps/emerald.rrc,242,2
+8,Route GG,maps/gg.rrc,238,2

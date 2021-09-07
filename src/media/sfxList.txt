@@ -1,0 +1,17 @@
+100,sfx/brake.wav
+101,sfx/brakeShort.wav
+102,sfx/checkpoint.wav
+103,sfx/crash2.wav
+104,sfx/crash3.wav
+105,sfx/crash5.wav
+106,sfx/crashSide.wav
+107,sfx/engine2.wav
+108,sfx/sideroad.wav
+109,sfx/tires.wav
+110,sfx/message.wav
+111,sfx/intro.wav
+112,sfx/finish.wav
+113,sfx/start.wav
+114,sfx/fuel.wav
+115,sfx/fail.wav
+116,sfx/get_1.wav

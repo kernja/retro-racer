@@ -1,0 +1,181 @@
+///header line
+1]MAIN MENU
+2]VISIT WWW.PLAYBUKKETGAMES.COM
+3]BACK
+4]OK
+5]RACE
+6]Start Racing
+7]Options
+8]About Retro Racer
+9]TRACK SELECT
+10]Original Tracks
+11]DOWNLOAD TRACKS FROM INTERNET
+12]Play Music        -   OFF
+13]Play Music        -    ON
+14]Play SFX          -   OFF
+15]Play SFX          -    ON
+16]Speed Measurement -   KPH
+17]Speed Measurement -   MPH
+18]Joystick Position -  LEFT
+19]Joystick Position - RIGHT
+20]Mirror Tracks     -   OFF
+21]Mirror Tracks     -    ON
+22]Clear Game Data
+23]Progress has been cleared
+24]DONE
+25]OPTIONS
+26]How to Play
+27]NEXT
+28]ABOUT RETRO RACER
+29]HOW TO PLAY RETRO RACER
+30]3
+31]2
+32]1
+33]GO
+34]TRACK COMPLETED
+35]NEW HIGH SCORE!
+36]
+37]Score:
+38]TRACK FAILED
+39]Try again?
+40]YES
+41]NO
+42]GAME PAUSED
+43]Resume
+44]Retire
+45]119
+46]120
+47]147
+48]148
+49]Restart Race
+50]RACE SELECTION
+51]Classic
+52]Endurance
+53]Classic (Mirror Mode)
+54]Endurance (Mirror Mode)
+55]LOCKED
+56]NEW MODE UNLOCKED
+57]ENDURANCE MODE
+58]Drive until gas runs out
+59]CLASSIC (MIRROR MODE)
+60]Race to the finish
+61]ENDURANCE (MIRROR MODE)
+62]Thanks for playing
+63]Retro Racer!
+64]GAME COMPLETED
+200] 
+201]Presented by Bukket Games
+202]WWW.PLAYBUKKETGAMES.COM
+203] 
+204]Made with App Game Kit
+205]WWW.APPGAMEKIT.COM
+206] 
+207] 
+208]Featuring artwork by
+209]Romy Brittany
+210] 
+211]'Press Start K' created
+212]by Codeman38
+213] 
+214]Chiptunes provided by
+215]
+216]ADE360
+217]LoneEchidna
+218]Wally
+219] 
+220]WWW.FAMITRACKER.COM/FORUM
+221]Also thank you to
+222]
+223]bluegestalt - pond5.com
+224]Soniau - pond5.com
+225]
+226]
+227]
+299]
+300]TRACK SELECTION
+301]Standard
+302]Download from Internet
+303]DOWNLOAD FROM INTERNET
+304]FEATURE NOT AVAILABLE
+305]Purchase Retro Racer
+306]to download tracks
+307]
+308]Contacting Bukket Games
+309]Cannot reach server!
+310]Please verify connection
+311]TRY AGAIN
+312]Downloading File
+313]
+314]Download Complete
+315]TRACK SELECTION
+316]Easy Difficulty
+317]Medium Difficulty
+318]Hard Difficulty
+319]TRACK PREVIEW
+320]SELECT TRACK
+321]HIGH SCORE: 
+322]Your score:
+323]TRACK COMPLETED
+400]OBJECTIVE
+401]121
+402] 
+403]
+404]
+405]Race to the finish line
+406]before time runs out
+407]ACCELERATION
+408]122
+409] 
+410]
+411]
+412]Hold 'W' key
+413]to travel faster
+414]BRAKING
+415]123
+416] 
+417]
+418]
+419]Hold 'S' key
+420]to slow down
+421]TURNING LEFT
+422]124
+423] 
+424]
+425]
+426]Hold 'A' key
+427]to steer that direction
+428]TURNING RIGHT
+429]125
+430] 
+431]
+432]
+433]Hold 'D' key
+434]to steer that direction
+435]MAINTAINING PACE
+436]126
+437] 
+438]
+439]
+440]Don't press any key to
+441]maintain current speed
+442]CHECKPOINTS
+443]127
+444] 
+445]
+446]
+447]Give you more time to
+448]reach the finish line
+449]AVOID HITTING VEHICLES
+450]128
+451] 
+452]
+453]
+454]You will lose speed, time,
+455]and some vehicle control
+456]AVOID ROADSIDE OBJECTS
+457]129
+458] 
+459]
+460]
+461]You will crash your car
+462]and lose a lot of time

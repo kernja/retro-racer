@@ -1,0 +1,6 @@
+1,music/menu.mp3
+2,music/azure.mp3
+3,music/tech.mp3
+4,music/glaive.mp3
+5,music/cold_friction.mp3
+15,music/final.mp3

@@ -1,0 +1,163 @@
+imageID   imagePath	   imageType   imageName   keepOnDelete   flag	magFilter	minfilter
+100,images/bg/wmTopA.png, 5, Windmill Top A, 0, 0, 0, 0
+101,images/bg/wmTopB.png, 6, Windmill Top B, 0, 0, 0, 0
+102,images/bg/city1TopA.png, 5, City 1 Top A, 0, 0, 0, 0
+103,images/bg/city1TopB.png, 6, City 1 Top B, 0, 0, 0, 0
+104,images/sprites/signLeft.png, 8, Sign Left *C, 1, 1, 0, 0
+105,images/sprites/signLeftSharp.png, 8, Sign Left Sharp *C, 1, 1, 0, 0
+106,images/sprites/signRight.png, 8, Sign Right *C, 1, 1, 0, 0
+107,images/sprites/signRightSharp.png, 8, Sign Right Sharp *C, 1, 1, 0, 0
+108,images/sprites/grapeBush.png, 9, Grape Bush *C, 0, 1, 0, 0
+109,images/sprites/wellLeft.png, 7, Well *C, 0, 1, 0, 0
+110,images/sprites/wellRight.png, 8, Well *C, 0, 1, 0, 0
+111,images/bg/wmRoad.png, 10, Windmill Road, 0, 0, 0, 0
+112,images/bg/wmGrass.png, 11, Windmill Grass, 0, 0, 0, 0
+113,images/bg/atlas.png,10, Atlas Road, 0, 0, 0, 0
+114,images/sprites/windmill.png, 9, Windmill Centered *C, 0, 1, 0, 0
+115,images/bg/blankRoad.png, 0, Blank Road, 1, 0, 0, 0
+116,images/bg/black.bmp, 0, Black, 1, 0, 0, 0
+117,images/fonts/psk_24.png, 0, Press Start K 24, 1, 0, 0, 0
+118,images/menu/menu.png, 0, Menu, 1, 0, 0, 0
+119,images/menu/title0.png, 0, Title0, 0, 0, 0, 0
+120,images/menu/title1.png, 0, Title1, 0, 0, 0, 0
+121,images/menu/objective.png, 0, Objective, 0, 0, 0, 0
+122,images/menu/gamepadUp.png, 0, Gamepad Up, 0, 0, 0, 0
+123,images/menu/gamepadDown.png, 0, Gamepad Down, 0, 0, 0, 0
+124,images/menu/gamepadLeft.png, 0, Gamepad Left, 0, 0, 0, 0
+125,images/menu/gamepadRight.png, 0, Gamepad Right, 0, 0, 0, 0
+126,images/menu/gamepadCenter.png, 0, Gamepad Center, 0, 0, 0, 0
+127,images/menu/checkpoint.png, 0, Checkpoint, 0, 0, 0, 0
+128,images/menu/vehicle.png, 0, Vehicle, 0, 0, 0, 0
+129,images/menu/sideroad.png, 0, SideRoad, 0, 0, 0, 0
+130,images/menu/internet.png, 0, Internet, 1, 0, 0, 0
+131,images/menu/internetGood.png, 0, Internet, 0, 0, 0, 0
+132,images/menu/internetBad.png, 0, Internet, 0, 0, 0, 0
+134,images/vehicles/carTurnLeft.png, 0, carTest, 1, 0, 0, 0
+135,images/vehicles/carTurnRight.png, 0, carTest, 1, 0, 0, 0
+136,images/vehicles/carFinish.png, 0, carTest, 1, 0, 0, 0
+137,images/sprites/flagLeft.png, 0, flagLeft, 1, 0, 0, 0
+138,images/sprites/flagRight.png, 0, flagRight, 1, 0, 0, 0
+139,images/vehicles/kickup2.png, 0, Kickup, 1, 0, 0, 0
+140,images/vehicles/enemy01.png, 12, enemy01, 0, 0, 0
+141,images/menu/sl00.png, 0, startLight0, 1, 0, 0, 0
+142,images/menu/sl01.png, 0, startLight1, 1, 0, 0, 0
+143,images/menu/sl02.png, 0, startLight2, 1, 0, 0, 0
+144,images/menu/sl03.png, 0, startLight3, 1, 0, 0, 0
+145,images/menu/sl04.png, 0, startLight4, 1, 0, 0, 0
+146,images/vehicles/taurel.png, 13, Taurel, 0, 0, 0, 0
+147,images/menu/title2.png, 0, Title2, 0, 0, 0, 0
+148,images/menu/loading.png, 0, Loading, 0, 0, 0, 0
+149,images/bg/goat1.png, 11, Goat BG 1, 0, 0, 0, 0
+150,images/bg/goat2.png, 11, Goat BG 2, 0, 0, 0, 0
+151,images/bg/goat3.png, 11, Goat BG 3, 0, 0, 0, 0
+152,images/bg/goat4.png, 11, Goat BG 4, 0, 0, 0, 0
+153,images/bg/goatRoad.png, 10, Goat Road, 0, 0, 0, 0
+154,images/bg/greenroad.png, 10, City Green Road, 0, 0, 0, 0
+155,images/bg/citygrass.png, 11, City Grass, 0, 0, 0, 0
+156,images/sprites/coneLeft.png, 7, Cone Left *C, 0, 1, 0, 0
+157,images/sprites/coneRight.png, 8, Cone Right *C, 0, 1, 0, 0
+158,images/sprites/sWindmillLeft.png, 7, Windmill Left *C, 0, 1, 0, 0
+159,images/sprites/sWindmillRight.png, 8, Windmill Right *C, 0, 1, 0, 0
+160,images/sprites/streetLightLeft.png, 7, Streetlight Left *C, 0, 1, 0, 0
+161,images/sprites/streetLightRight.png, 8, Streetlight Right *C, 0, 1, 0, 0
+162,images/sprites/billboard_water.png, 9, Billboard Water *C, 0, 1, 0, 0
+163,images/vehicles/enemy02.png, 12, enemy02,  0, 0, 0, 0
+164,images/vehicles/taurel2.png, 13, Taurel2, 0, 0, 0, 0
+165,images/sprites/goatLeft.png, 7, Goat Left *C, 0, 1, 0, 0
+166,images/sprites/goatRight.png, 8, Goat Right *C, 0, 1, 0, 0
+167,images/sprites/banisterLeft.png, 7, Banister Left *C, 0, 1, 0, 0
+168,images/sprites/banisterRight.png, 8, Banister Right *C, 0, 1, 0, 0
+169,images/bg/goatTopA.png, 5, Goat Top A, 0, 0, 0, 0
+170,images/bg/goatTopB1.png, 6, Goat Top B1, 0, 0, 0, 0
+171,images/bg/goatTopB2.png, 6, Goat Top B2, 0, 0, 0, 0
+172,images/bg/goatTopB3.png, 6, Goat Top B3, 0, 0, 0, 0
+173,images/vehicles/truck.png, 13, Truck, 0, 0, 0, 0
+174,images/bg/winterTopA.png, 5, Winter Top A1, 0, 0, 0, 0
+175,images/bg/winterTopA2.png, 5, Winter Top A2, 0, 0, 0, 0
+176,images/bg/winterTopA3.png, 5, Winter Top A3, 0, 0, 0, 0
+177,images/bg/winterTopB.png, 6, Winter Top B1, 0, 0, 0, 0
+178,images/bg/winterTopB2.png, 6, Winter Top B2, 0, 0, 0, 0
+179,images/bg/winterTopB3.png, 6, Winter Top B3, 0, 0, 0, 0
+180,images/sprites/winterTreeLeft.png, 7, Winter Tree Left *C, 0, 1, 0, 0
+181,images/sprites/winterTreeRight.png, 8, Winter Tree Right *C, 0, 1, 0, 0
+182,images/sprites/wmBanisterLeft.png, 7, WM Banister Left *C, 0, 1, 0, 0
+183,images/sprites/wmBanisterRight.png, 8, WM Banister Right *C, 0, 1, 0, 0
+184,images/bg/wmRoadWater.png, 10, Windmill Road Water, 0, 0, 0, 0
+185,images/bg/wmWater.png, 11, Windmill Water, 0, 0, 0, 0
+186,images/bg/wintergrass.png, 11, Winter Grass, 0, 0, 0, 0
+187,images/bg/winterroad.png, 10, Winter Road, 0, 0, 0, 0
+188,images/bg/ggBG1.png, 11, GG Grass, 0, 0, 0, 0
+189,images/bg/ggBG2.png, 11, GG Water, 0, 0, 0, 0
+190,images/bg/ggRoad.png, 10, GG Road, 0, 0, 0, 0
+191,images/bg/treelineA.png, 5, GG Top A, 0, 0, 0, 0
+192,images/bg/treelineB.png, 6, GG Top B, 0, 0, 0, 0
+193,images/sprites/banisterBRight.png, 8, Metal Banister Right *C, 0, 1, 0, 0
+194,images/sprites/cautionSignRight.png, 8, Banister Caution Right *C, 0, 1, 0, 0
+195,images/sprites/treeARight.png, 8, Tree A Right *C, 0, 1, 0, 0
+196,images/sprites/treeBRight.png, 8, Tree B Right*C, 0, 1, 0, 0
+197,images/sprites/treeCRight.png, 8, Tree C Right*C, 0, 1, 0, 0
+198,images/sprites/banisterBLeft.png, 7, Metal Banister Left *C, 0, 1, 0, 0
+199,images/sprites/cautionSignLeft.png, 7, Banister Caution Left *C, 0, 1, 0, 0
+200,images/sprites/treeALeft.png, 7, Tree A Left *C, 0, 1, 0, 0
+201,images/sprites/treeBLeft.png, 7, Tree B Left *C, 0, 1, 0, 0
+202,images/sprites/treeCLeft.png, 7, Tree C Left *C, 0, 1, 0, 0
+203,images/sprites/coneLeftB.png, 7, Cone Left B *C, 0, 1, 0, 0
+204,images/sprites/coneRightB.png, 8, Cone Right B *C, 0, 1, 0, 0
+205,images/sprites/streetLightLeftB.png, 7, Streetlight Left B *C, 0, 1, 0, 0
+206,images/sprites/streetLightRightB.png, 8, Streetlight Right B *C, 0, 1, 0, 0
+207,images/sprites/billboard_ascii.png, 9, Billboard ASCII *C, 0, 1, 0, 0
+208,images/sprites/coneLeftC.png, 7, Cone Left C *C, 0, 1, 0, 0
+209,images/sprites/coneRightC.png, 8, Cone Right C *C, 0, 1, 0, 0
+210,images/sprites/streetLightLeftC.png, 7, Streetlight Left C *C, 0, 1, 0, 0
+211,images/sprites/streetLightRightC.png, 8, Streetlight Right C *C, 0, 1, 0, 0
+212,images/sprites/billboard_agk.png, 9, Billboard AGK *C, 0, 1, 0, 0
+213,images/bg/blueroad.png, 10, City Blue Road, 0, 0, 0, 0
+214,images/bg/orangeroad.png, 10, City Orange Road, 0, 0, 0, 0
+215,images/bg/city2TopA.png, 5, City 2 Top A, 0, 0, 0, 0
+216,images/bg/city2TopB.png, 6, City 2 Top B, 0, 0, 0, 0
+217,images/bg/city3TopA.png, 5, City 3 Top A, 0, 0, 0, 0
+218,images/bg/city3TopB.png, 6, City 3 Top B, 0, 0, 0, 0
+219,images/bg/emeraldCoastTopA.png, 5, Emerald Coast Top A, 0, 0, 0, 0
+220,images/bg/emeraldCoastTopB.png, 6, Emerald Coast Top B, 0, 0, 0, 0
+221,images/bg/wisconsinTopA.png, 5, Wisconsin Top A, 0, 0, 0, 0
+222,images/bg/wisconsinTopB.png, 6, Wisconsin Top B, 0, 0, 0, 0
+223,images/bg/emeraldGrassA.png, 11, Emerald Coast Grass A, 0, 0, 0, 0
+224,images/bg/emeraldGrassB.png, 11, Emerald Coast Grass B, 0, 0, 0, 0
+225,images/bg/emeraldRoadB.png, 10, Emerald Coast Road A, 0, 0, 0, 0
+226,images/bg/emeraldRoadA.png, 10, Emerald Coast Road B, 0, 0, 0, 0
+227,images/bg/wisconsinGrass.png, 11, Wisconsin Grass, 0, 0, 0, 0
+228,images/bg/wisconsinRoad.png, 10, Wisconsin Road, 0, 0, 0, 0
+229,images/sprites/corn.png, 9, Corn *C, 0, 1, 0, 0
+230,images/sprites/cowLeft.png, 7, Cow Left *C, 0, 1, 0, 0
+231,images/sprites/cowRight.png, 8, Cow Right *C, 0, 1, 0, 0
+232,images/sprites/umbrellaLeft.png, 7, umbrella Left *C, 0, 1, 0, 0
+233,images/sprites/umbrellaRight.png, 8, umbrella Right *C, 0, 1, 0, 0
+234,images/sprites/palmLeft.png, 7, Palm Left *C, 0, 1, 0, 0
+235,images/sprites/palmRight.png, 8, Palm Right *C, 0, 1, 0, 0
+236,images/sprites/ringbox.png, 8, ringbox *C, 0, 1, 0, 0
+237,images/menu/tracks/wm.png, 0, Windmill Isle Preview, 0, 0, 0, 0
+238,images/menu/tracks/gg.png, 0, Route GG Preview, 0, 0, 0, 0
+239,images/sprites/billboard_work.png, 0, Billboard Work, 0, 0, 0, 0
+240,images/menu/tracks/53.png, 0, Highway 53 N Preview, 0, 0, 0, 0
+241,images/menu/credits.png, 0, Game Credits, 0, 0, 0, 0
+242,images/menu/tracks/emerald.png, 0, Emerald Preview, 0, 0, 0, 0
+243,images/menu/tracks/city1.png, 0, City 1Preview, 0, 0, 0, 0
+244,images/menu/tracks/city2.png, 0, City 2Preview, 0, 0, 0, 0
+245,images/menu/tracks/winter.png, 0, Winter Preview, 0, 0, 0, 0
+246,images/menu/tracks/goat.png, 0, Goat Preview, 0, 0, 0, 0
+247,images/vehicles/taurelE.png, 12, enemyTaurel, 0, 0, 0
+248,images/menu/award.png, 0, Award, 0, 0, 0, 0
+249,images/menu/tracks/city3.png, 0, City 3 Preview, 0, 0, 0, 0
+250,images/menu/tracks/sampler.png, 0, Sampler Preview, 0, 0, 0, 0
+1000,images/bg/download/bfcRoad.png, 10, BFC Road, 0, 0, 0, 0
+1001,images/bg/download/bfcGrass.png, 11, BFC Grass, 0, 0, 0, 0
+1002,images/bg/download/bfcTopA.png, 5, BFC Top, 0, 0, 0, 0
+1003,images/bg/download/bfcTopB.png, 6, BFC Bottom, 0, 0, 0, 0
+1004,images/sprites/download/toppingLeft.png, 7, BFC Topping Left *C, 0, 1, 0, 0
+1005,images/sprites/download/toppingRight.png, 8, BFC Topping Right *C, 0, 1, 0, 0
+1006,images/sprites/download/cherryLeft.png, 7, BFC Cherry Left *C, 0, 1, 0, 0
+1007,images/sprites/download/cherryRight.png, 8, BFC Cherry Right *C, 0, 1, 0, 0
+1008,images/sprites/download/candleLeft.png, 7, BFC Candle Left *C, 0, 1, 0, 0
+1009,images/sprites/download/candleRight.png, 8, BFC Candle Right *C, 0, 1, 0, 0
+1010,images/vehicles/download/candleEnemy.png, 12, Candle,  0, 0, 0, 0
+1011,images/vehicles/download/candle.png, 13, Candle, 0, 0, 0, 0
