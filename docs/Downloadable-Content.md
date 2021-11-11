@@ -1,6 +1,12 @@
 # Downloadable Content
 
-`Retro Racer` allowed users to expand gameplay by downloading new tracks for free.
+`Retro Racer` allowed users to expand gameplay by offering downloadable content (DLC) for free. This functionality was implemented through static `.zip` files that were downloaded and extracted into a local folder named `/download`.
+
+The DLC content has been added to the repo twice:
+
+* `/deployed` demonstrates how the content should be deployed to a server
+
+* `/src` contains the extracted contents the files in the `/deployed` folder
 
 ## How DLC worked
 
