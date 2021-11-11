@@ -1,0 +1,12 @@
+1000,download/bfcRoad.png, 10, BFC Road, 0, 0, 0, 0
+1001,download/bfcGrass.png, 11, BFC Grass, 0, 0, 0, 0
+1002,download/bfcTopA.png, 5, BFC Top, 0, 0, 0, 0
+1003,download/bfcTopB.png, 6, BFC Bottom, 0, 0, 0, 0
+1004,download/toppingLeft.png, 7, BFC Topping Left *C, 0, 1, 0, 0
+1005,download/toppingRight.png, 8, BFC Topping Right *C, 0, 1, 0, 0
+1006,download/cherryLeft.png, 7, BFC Cherry Left *C, 0, 1, 0, 0
+1007,download/cherryRight.png, 8, BFC Cherry Right *C, 0, 1, 0, 0
+1008,download/candleLeft.png, 7, BFC Candle Left *C, 0, 1, 0, 0
+1009,download/candleRight.png, 8, BFC Candle Right *C, 0, 1, 0, 0
+1010,download/candleEnemy.png, 12, Candle,  0, 0, 0, 0
+1011,download/candle.png, 13, Candle, 0, 0, 0, 0

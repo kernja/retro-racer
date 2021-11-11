@@ -1,0 +1,5 @@
+min version id	name	filepath	imagepath	author	difficulty
+100,Cake Racer,/games/rr/maps/bfc100.zip,/games/rr/maps/bfc.png,by Bukket Games, 0
+110+120,Cake Racer,/games/rr/maps/bfc110.zip,/games/rr/maps/bfc.png,by Bukket Games, 0
+100,Retro Racer Sampler,/games/rr/maps/sampler.zip,/games/rr/maps/sampler.png,by Bukket Games, 1
+110+120,Retro Racer Sampler,/games/rr/maps/sampler110.zip,/games/rr/maps/sampler.png,by Bukket Games, 1
