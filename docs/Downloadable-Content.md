@@ -6,13 +6,13 @@ The DLC content has been added to the repo twice:
 
 * `/deployed` demonstrates how the content should be deployed to a server
 
-* `/src` contains the extracted contents the files in the `/deployed` folder
+* `/src` contains the extracted contents of the files in the `/deployed` folder
 
 ## How DLC worked
 
-1. The game would download `listings.zip` from the server and extract the contents into the local `download/` folder 
+1. The game would download `listings.zip` from the server and extract the contents into the local `/download` folder 
 
-2. The game would parse the extracted `download/listings.txt` file to find supported maps
+2. The game would parse the extracted `/download/listings.txt` file to find supported maps
 
 	* `100` map files are from the first release of `Retro Racer`
 	
@@ -30,11 +30,11 @@ The DLC content has been added to the repo twice:
 
 	* Download the bundled course data as a `.zip` file
 	
-	* Extract the bundled course data into the local `download/` folder
+	* Extract the bundled course data into the local `/download` folder
 	
-	* Load the `download/map.rrc` file
+	* Load the `/download/map.rrc` file
 	
-		* If provided, load the `download/imageList.txt` file and any other assets
+		* If provided, load the `/download/imageList.txt` file and any other assets
 	
 	* Start gameplay
 	
